@@ -1,5 +1,5 @@
 <img alt = "not found" src = "https://images.unsplash.com/photo-1580927752452-89d86da3fa0a?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"/>
-<h1 align="center">Hi ðŸ‘‹, I'm Vinod Kumar Maurya</h1>
+<h1 align="center">Hi , I'm Vinod Kumar Maurya</h1>
 <h3 align="center">A passionate Competitive Programmer and frontend developer from India</h3>
 <img align = "right" width = "400" alt = "coding" src = "https://media1.tenor.com/m/CT6PTBJzG7cAAAAC/pgomaing.gif"/>
 
@@ -9,17 +9,15 @@
 
 <p align="left"> <a href="https://twitter.com/its_vinod_kr" target="blank"><img src="https://img.shields.io/twitter/follow/its_vinod_kr?logo=twitter&style=for-the-badge" alt="its_vinod_kr" /></a> </p>
 
-- ðŸŒ± Iâ€™m currently learning **MERN Stack**
+- I'm currently learning **MERN Stack**
 
-- ðŸ‘¨â€ðŸ’» All of my projects are available at [@dummylink](@dummylink)
+- Ask me about **Competitive Programming, MERN Stack**
 
-- ðŸ’¬ Ask me about **Competitive Programming, MERN Stack**
+- How to reach me **vinodmaurya0410@gmail.com**
 
-- ðŸ“« How to reach me **vinodmaurya0410@gmail.com**
+- Know about my experiences [@dummyresumelink](@dummyresumelink)
 
-- ðŸ“„ Know about my experiences [@dummyresumelink](@dummyresumelink)
-
-- âš¡ Fun fact **I think I am Introvert**
+- Fun fact **I think I am Introvert**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
