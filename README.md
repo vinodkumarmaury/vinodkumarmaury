@@ -15,7 +15,7 @@
 
 - How to reach me **vinodmaurya0410@gmail.com**
 
-- Know about my experiences [@dummyresumelink](@dummyresumelink)
+- Know about my experiences [@dummyresumelink]([@dummyresumelink](https://www.linkedin.com/in/vinod-maurya/))
 
 - Fun fact **I think I am Introvert**
 
